@@ -46,32 +46,11 @@
         "color": "#3498db"
       }
     ],
-    "buttons": [
-      {
-        "name": "Discord Support",
-        "link": "https://discord.gg/gZKZQQdGMB",
-        "icon": "fab fa-discord"
-      },
-      {
-        "name": "Discord Community",
-        "link": "https://discord.gg/ERJdY5HYgx",
-        "icon": "fab fa-discord"
-      },
-      {
-        "name": "GitHub",
-        "link": "https://github.com/tuzhicodes",
-        "icon": "fab fa-github"
-      },
-      {
-        "name": "YouTube",
-        "link": "https://youtube.com/@TuZhiCodes",
-        "icon": "fab fa-youtube"
-      }
-    ],
+    
     "about": "🐰 A Dreamer Who Never Sleeps !! 🐰\nDeveloper | Gamer | Content Creator",
     "decoration": {
       "file": "heart-frame"
     },
-    "footer": "© 2026 Made with ❤️ TuZhi Codes"
+    "footer": "© 2026 Made with ❤️ Bikram"
   }
 }
